@@ -1,0 +1,22 @@
+C:\Users\shrut\Desktop\Imarticus\EndToEndProjects\Medical_insurance_cost_prediction>python -m venv myenv
+
+C:\Users\shrut\Desktop\Imarticus\EndToEndProjects\Medical_insurance_cost_prediction>myenv\Scripts\activate
+
+(myenv) C:\Users\shrut\Desktop\Imarticus\EndToEndProjects\Medical_insurance_cost_prediction>python --version
+Python 3.11.4
+
+(myenv) C:\Users\shrut\Desktop\Imarticus\EndToEndProjects\Medical_insurance_cost_prediction>pip freeze
+
+(myenv) C:\Users\shrut\Desktop\Imarticus\EndToEndProjects\Medical_insurance_cost_prediction>pip freeze > requirements.txt
+
+(myenv) C:\Users\shrut\Desktop\Imarticus\EndToEndProjects\Medical_insurance_cost_prediction>pip install -r requirements.txt
+
+
+
+C:\Users\shrut\Desktop\Imarticus\EndToEndProjects\Medical_insurance_cost_prediction>python -m venv .venv
+
+C:\Users\shrut\Desktop\Imarticus\EndToEndProjects\Medical_insurance_cost_prediction>.venv\Scripts\activate
+
+(.venv) C:\Users\shrut\Desktop\Imarticus\EndToEndProjects\Medical_insurance_cost_prediction>pip freeze
+
+(.venv) C:\Users\shrut\Desktop\Imarticus\EndToEndProjects\Medical_insurance_cost_prediction>pip install -r requirements.txt
