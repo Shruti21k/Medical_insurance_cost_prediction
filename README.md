@@ -8,7 +8,4 @@
 
 
 Create a new environment
-
-```
-python -m venv .venv
-```
+Check out syntax in 'cmd note.txt' file
