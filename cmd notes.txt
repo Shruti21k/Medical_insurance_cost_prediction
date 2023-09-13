@@ -1,22 +1,11 @@
-C:\Users\shrut\Desktop\Imarticus\EndToEndProjects\Medical_insurance_cost_prediction>python -m venv myenv
+file path>code # what's it doing
 
-C:\Users\shrut\Desktop\Imarticus\EndToEndProjects\Medical_insurance_cost_prediction>myenv\Scripts\activate
+C:\Users\shrut\Desktop\Imarticus\EndToEndProjects\Medical_insurance_cost_prediction>python -m venv .venv    # creating file
 
-(myenv) C:\Users\shrut\Desktop\Imarticus\EndToEndProjects\Medical_insurance_cost_prediction>python --version
-Python 3.11.4
-
-(myenv) C:\Users\shrut\Desktop\Imarticus\EndToEndProjects\Medical_insurance_cost_prediction>pip freeze
-
-(myenv) C:\Users\shrut\Desktop\Imarticus\EndToEndProjects\Medical_insurance_cost_prediction>pip freeze > requirements.txt
-
-(myenv) C:\Users\shrut\Desktop\Imarticus\EndToEndProjects\Medical_insurance_cost_prediction>pip install -r requirements.txt
-
-
-
-C:\Users\shrut\Desktop\Imarticus\EndToEndProjects\Medical_insurance_cost_prediction>python -m venv .venv
-
-C:\Users\shrut\Desktop\Imarticus\EndToEndProjects\Medical_insurance_cost_prediction>.venv\Scripts\activate
+C:\Users\shrut\Desktop\Imarticus\EndToEndProjects\Medical_insurance_cost_prediction>.venv\Scripts\activate  #activating newly created environment
 
 (.venv) C:\Users\shrut\Desktop\Imarticus\EndToEndProjects\Medical_insurance_cost_prediction>pip freeze
 
-(.venv) C:\Users\shrut\Desktop\Imarticus\EndToEndProjects\Medical_insurance_cost_prediction>pip install -r requirements.txt
+(.venv) C:\Users\shrut\Desktop\Imarticus\EndToEndProjects\Medical_insurance_cost_prediction>pip install -r requirements.txt      # -r creates a read only txt file
+
+(.venv) C:\Users\shrut\Desktop\Imarticus\EndToEndProjects\Medical_insurance_cost_prediction>deactivate  # ( for getting out from .venv )
