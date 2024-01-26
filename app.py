@@ -3,6 +3,7 @@ import pandas as pd
 import pickle
 import numpy as np
 
+st.set_page_config(page_title="Insurance Quote Calculator", page_icon='🌟')
 
 # Customizing the layout
 page_bg_img = f'''
